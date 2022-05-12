@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
-</p>
-
-<h4><p align="center"> EMIKO ROBOT </p></h4>
+</ p >
+saya
+< h4 >< p  align = "center" > EMIKO ROBOT </ p ></ h4 >
 
 <p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
@@ -15,8 +15,9 @@
 <a href="https://GitHub.com/kennedy-ex/EmikoRobot"> <img src="https://img.shields.io/badge/Maintained-Yash-yellow.svg" alt="Maintenance" /> </a><br>
 <a href="https://github.com/kennedy-ex/EmikoRobot/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License" /> </a>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-blue.svg?style=flat-round" alt="PRs" /> </a>
-</p>
-
+</ p >
+<h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
+<p align="center"><a href="https://github.com/Kyezel/KyezelRobot/deploy.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 ### TUTORIAL
 
 - First fork this repository.
